@@ -1,0 +1,14 @@
+{
+    "name": "sulai/auth",
+    "description": "You can create Login and register task",
+    "type": "project",
+    "authors": [
+        {
+            "name": "sulaimaan46",
+            "email": "sulaimaansulai46@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+    
+}
